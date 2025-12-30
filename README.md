@@ -46,9 +46,9 @@ IT колледж информационных технологий
 
 Контакты:
 
-GitHub: @Mip-Map167
-Email: kiryushka228buratino@gmail.com
-Telegram: @lavesubave
+GitHub: FAMMAR
+Email: fammar.ru@yandex.ru
+Telegram: @Fiybirdy
 MIT License
 Copyright (c) 2025 Анна Максимовна
 
