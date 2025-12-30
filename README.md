@@ -1,5 +1,4 @@
-![Логотип проекта](images/banner.png)
-
+## Приложение
 https://disk.yandex.ru/i/-24HA3JcBw_HfQ
 
 ## Название
