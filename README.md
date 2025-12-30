@@ -1,3 +1,7 @@
+![Логотип проекта](images/banner.png)
+
+https://disk.yandex.ru/i/-24HA3JcBw_HfQ
+
 ## Название
 Bird
 <br>
