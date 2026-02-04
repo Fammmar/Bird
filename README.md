@@ -1,4 +1,4 @@
-# Bird 🐦
+# Bird 
 <img width="300" height="auto" alt="Frame 16" src="https://github.com/user-attachments/assets/8720b6e3-aeb7-4944-a3fe-7104fe90c545" />
 
 ## Описание
