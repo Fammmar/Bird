@@ -1,5 +1,8 @@
 ## Приложение
-https://disk.yandex.ru/i/-24HA3JcBw_HfQ
+![Архитектура приложения](./docs/architecture.png)
+А вот логотип:
+![Логотип проекта](https://github.com/user/repo/blob/main/assets/logo.png?raw=true)
+<br>
 
 ## Название
 Bird
