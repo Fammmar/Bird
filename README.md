@@ -47,5 +47,3 @@
 - **GitHub:** [FAMMAR](https://github.com/FAMMAR)
 - **Email:** fammar.ru@yandex.ru
 - **Telegram:** [@Fiybirdy](https://t.me/Fiybirdy)
-
-## Лицензия
