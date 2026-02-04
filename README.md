@@ -1,7 +1,5 @@
 ## Приложение
-![Архитектура приложения](./docs/architecture.png)
-А вот логотип:
-![Логотип проекта](https://github.com/user/repo/blob/main/assets/logo.png?raw=true)
+(Frame 16.png)
 <br>
 
 ## Название
