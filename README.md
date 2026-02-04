@@ -1,5 +1,5 @@
 ## Приложение
-(Frame 16.png)
+![Alt text](Frame 16.png)
 <br>
 
 ## Название
